@@ -1,23 +1,29 @@
 # Morning Bliss - Artisanal Coffee Blend
 
+## Overview
+
 Welcome to the **Morning Bliss** project! This website showcases our artisanal coffee blend designed to start your day with a rich and full-bodied flavor. The site provides details about the product, customer testimonials, frequently asked questions, and contact information.
 
-# Features
+## Live Demo
+
+You can view the live version of the application at: [Live Demo](https://lovely-concha-ab7dbb.netlify.app)  
+
+## Features
 
 - **Product Information**: Detailed description of the Morning Bliss coffee blend, including price and features.  
 - **Customer Testimonials**: Read what our customers have to say about their experience with Morning Bliss.  
 - **FAQ**: Answers to commonly asked questions about our product and services.  
 - **Contact Us**: Easy way to reach out for inquiries or support.  
 
-# Getting Started
+## Getting Started
 
 To get started with this project, follow these steps:
 
-# Prerequisites
+## Prerequisites
 
 Ensure you have a modern web browser to view the website. No additional software is required.
 
-# Installation
+## Installation
 
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:  
@@ -32,7 +38,7 @@ Ensure you have a modern web browser to view the website. No additional software
    start index.html # Windows  
    xdg-open index.html # Linux  
 
- # Usage
+ ## Usage
 
  - **Homepage**: Features an introduction to the Morning Bliss coffee blend.  
  - **Product Section**: Provides detailed information about the coffee blend, including price and description.  
@@ -40,13 +46,13 @@ Ensure you have a modern web browser to view the website. No additional software
  - **FAQ Section**: Lists answers to common questions about the product.  
  - **Contact Section**: Provides contact information and a way to reach out via email.  
 
-  # Adding a PayPal Buy Now Button
+  ## Adding a PayPal Buy Now Button
 
   - The "Buy Now" button is designed to dynamically display a PayPal button when clicked. This allows users to make a payment for the product directly on the website.  
   - Click the "Buy Now" Button: This will reveal the PayPal button.  
   - Complete the Payment: Follow the PayPal checkout process to complete your purchase.  
 
-  # Contributing
+  ## Contributing
 
   Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. Follow these steps:  
 
