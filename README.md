@@ -19,14 +19,14 @@ Ensure you have a modern web browser to view the website. No additional software
 
 # Installation
 
-1. **Clone the Repository**
+1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:  
    git clone https://github.com/Omashree/morning-bliss.git  
    
-2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**  
    cd morning-bliss  
    
-3. **Open the Website**
+3. **Open the Website**  
    Open the index.html file in your web browser. You can do this by double-clicking the file or using a local server if you prefer.  
    open index.html # macOS  
    start index.html # Windows  
