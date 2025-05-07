@@ -1,66 +1,104 @@
-# Morning Bliss - Artisanal Coffee Blend
+# ☕ Morning Bliss – Artisanal Coffee Blend
 
-## Overview
+A simple, elegant website showcasing **Morning Bliss**, a premium artisanal coffee blend designed to kickstart your day with rich, full-bodied flavor. Built using HTML, CSS, and JavaScript.
 
-Welcome to the **Morning Bliss** project! This website showcases our artisanal coffee blend designed to start your day with a rich and full-bodied flavor. The site provides details about the product, customer testimonials, frequently asked questions, and contact information.
+🔗 **Live Demo**: [lovely-concha-ab7dbb.netlify.app](https://lovely-concha-ab7dbb.netlify.app)
 
-## Live Demo
+---
 
-You can view the live version of the application at: [Live Demo](https://lovely-concha-ab7dbb.netlify.app)  
+## ✨ Features
 
-## Features
+* **Product Showcase**: Highlights the Morning Bliss coffee blend with detailed descriptions and pricing.
+* **Customer Testimonials**: Displays real feedback from happy customers.
+* **FAQ Section**: Answers to commonly asked questions about the product and service.
+* **Contact Form**: Allows users to get in touch with the brand for support or inquiries.
+* **PayPal Integration**: “Buy Now” button dynamically reveals a PayPal checkout for easy payments.
 
-- **Product Information**: Detailed description of the Morning Bliss coffee blend, including price and features.  
-- **Customer Testimonials**: Read what our customers have to say about their experience with Morning Bliss.  
-- **FAQ**: Answers to commonly asked questions about our product and services.  
-- **Contact Us**: Easy way to reach out for inquiries or support.  
+---
 
-## Getting Started
+## 📁 Project Structure
 
-To get started with this project, follow these steps:
+```
+/project-root
+├── index.html            # Main landing page
+├── style.css             # Styling for the website
+├── script.js             # JavaScript functionality (e.g., PayPal button toggle)
+├── /images/              # Images and icons (if any)
+├── about.html            # About page
+├── contact.html          # Contact page
+├── faq.html              # FAQ page
+├── product.html          # Product details page
+├── testimonials.html     # Testimonials page
+└── README.md             # Project documentation
+```
 
-## Prerequisites
+---
 
-Ensure you have a modern web browser to view the website. No additional software is required.
+## 🛠️ Getting Started
 
-## Installation
+### Prerequisites
 
-1. **Clone the Repository**  
-   Clone the repository to your local machine using the following command:  
-   git clone https://github.com/Omashree/morning-bliss.git  
-   
-2. **Navigate to the Project Directory**  
-   cd morning-bliss  
-   
-3. **Open the Website**  
-   Open the index.html file in your web browser. You can do this by double-clicking the file or using a local server if you prefer.  
-   open index.html # macOS  
-   start index.html # Windows  
-   xdg-open index.html # Linux  
+* A modern web browser (Chrome, Firefox, Safari, etc.)
 
- ## Usage
+### Installation
 
- - **Homepage**: Features an introduction to the Morning Bliss coffee blend.  
- - **Product Section**: Provides detailed information about the coffee blend, including price and description.  
- - **Testimonials Section**: Displays customer reviews and feedback.  
- - **FAQ Section**: Lists answers to common questions about the product.  
- - **Contact Section**: Provides contact information and a way to reach out via email.  
+```bash
+git clone https://github.com/Omashree/morning-bliss.git
+cd morning-bliss
+```
 
-  ## Adding a PayPal Buy Now Button
+Open the website locally:
 
-  - The "Buy Now" button is designed to dynamically display a PayPal button when clicked. This allows users to make a payment for the product directly on the website.  
-  - Click the "Buy Now" Button: This will reveal the PayPal button.  
-  - Complete the Payment: Follow the PayPal checkout process to complete your purchase.  
+* On macOS: `open index.html`
+* On Windows: `start index.html`
+* On Linux: `xdg-open index.html`
 
-  ## Contributing
+---
 
-  Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. Follow these steps:  
+## 💡 Usage
 
-  - Fork the repository on GitHub.  
-  - Clone your forked repository to your local machine.  
-  - Create a new branch for your changes.  
-  - Make your changes and commit them.  
-  - Push your changes to your forked repository.  
-  - Open a pull request to merge your changes into the main repository.  
+* **Homepage**: Introduction to Morning Bliss coffee.
+* **Product Details**: Pricing, features, and highlights.
+* **Testimonials**: Real customer experiences.
+* **FAQ**: Quick answers to common questions.
+* **Contact**: Simple way to get in touch.
 
-  Thank you for visiting the Morning Bliss project! Enjoy our artisanal coffee blend and have a great day!  
+### 🛒 PayPal Buy Now Button
+
+* Click the “Buy Now” button to reveal the PayPal payment option.
+* Complete your purchase through PayPal’s secure checkout process.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Commit and push your changes
+4. Open a pull request
+
+---
+
+## 📸 Screenshots
+
+![Morning Bliss](./assets/main.png)
+
+![Morning Bliss](./assets/product.png)
+
+![Morning Bliss](./assets/payment.png)
+
+![Morning Bliss](./assets/testimonials.png)
+
+![Morning Bliss](./assets/faq.png)
+
+![Morning Bliss](./assets/about.png)
+
+![Morning Bliss](./assets/contact.png)
+
+---
+
+## 📄 License
+
+This project is open-source and licensed under the **MIT License**.
